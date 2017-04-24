@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/controverses/scmrparis10e/
 
 ![SCMR](http://www.drogues.gouv.fr/sites/drogues.gouv.fr/files/thumbnails/image/scmr_table_mf_20161110_800px.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eSa6CckQ7BQ" frameborder="0" allowfullscreen></iframe>
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
