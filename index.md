@@ -1,10 +1,8 @@
 ## Welcome to GitHub Pages !!
 
-* fegtr
-* rse
-* srtgd
-
 You can use the [editor on GitHub](https://github.com/controverses/scmrparis10e/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+![SCMR](http://www.drogues.gouv.fr/sites/drogues.gouv.fr/files/thumbnails/image/scmr_table_mf_20161110_800px.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
